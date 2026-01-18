@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"Actor3_5","characterIndex":4,"characterName":"Actor3","classId":1,"equips":[0,0,0,3,0],"faceIndex":4,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kenshen","nickname":"Ken","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor3","classId":1,"equips":[2,27,54,0,0],"faceIndex":0,"faceName":"Actor3","traits":[],"initialLevel":2,"maxLevel":99,"name":"Shinju","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"SF_Actor3_7","characterIndex":2,"characterName":"People1","classId":1,"equips":[2,28,0,4,0],"faceIndex":2,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Uesgui","nickname":"","note":"","profile":""}
+]
